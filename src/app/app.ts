@@ -17,7 +17,7 @@ import { PortfolioService } from './services/portfolio.service';
         </div>
 
         <div class="hacker-profile">
-          <img href="assets/hacker.jpg" alt="World's Best Hacker" class="hacker-image">
+          <img src="C:\\Users\\hp\\Documents\\GitHub\\kenna-punda\\src\\assets\\hacker.jpg" alt="World's Best Hacker" class="hacker-image">
           <p class="hacker-image">Photo load agala da Kenna Punda<p> 
          <div class="hacker-info">
             <h1>🕵️ THE LEGEND</h1>
