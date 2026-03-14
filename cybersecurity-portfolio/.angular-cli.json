@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "cybersecurity-portfolio": {
+      "projectType": "application",
+      "serve": {
+        "builder": "@angular-devkit/build-angular:dev-server",
+        "options": {
+          "browserTarget": "cybersecurity-portfolio:build",
+          "host": "localhost",
+          "port": 4200
+        },
+        "configurations": {
+          "development": {
+            "browserTarget": "cybersecurity-portfolio:build:development"
+          }
+        },
+        "defaultConfiguration": "development"
+      }
+    }
+  }
+}
